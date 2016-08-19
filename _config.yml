@@ -1,0 +1,14 @@
+layout_spectrum: 0.4719314146786928
+typography_spectrum: 0.9737515156157315
+color:
+  brandStrength: 0.6552465031854808
+  lightness: 0.29774432466365397
+  saturation: 0.2430154629983008
+  rhythmicContrast: 0.5788058252073824
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Death Positive
